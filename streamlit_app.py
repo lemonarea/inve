@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 import streamlit as st
 from datetime import datetime
-
+import sqlite3
 
 st.set_page_config(layout='wide', initial_sidebar_state="collapsed")
 

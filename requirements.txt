@@ -7,3 +7,4 @@ pyodbc
 pymysql
 openpyxl
 plotly
+db-sqlite3
